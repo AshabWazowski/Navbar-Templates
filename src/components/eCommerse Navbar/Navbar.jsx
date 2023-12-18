@@ -215,7 +215,7 @@ const Navbar = () => {
             </FlexBox>
 
             <FlexBox>
-              <Typography color={!mode ? 'whitesmoke' : ''}>Copyright @ Company 2023</Typography>
+              <Typography color={!mode ? 'whitesmoke' : ""}>Copyright @ Company 2023</Typography>
             </FlexBox>
           </Box>
         ) : null}
